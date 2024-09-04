@@ -21,4 +21,4 @@ console.log(Math.E)
 console.log(Math.LN2)
 console.log(Math.log(30))
 
-console.log(Math.pow(4,2))
+console.log(Math.pow(42,2))
